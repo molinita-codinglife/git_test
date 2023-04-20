@@ -1,5 +1,6 @@
 i'm testing how to edit a file in Visual Code
 also, how to upload to Github and upload files
-I understand 2 states of the file 
+I understand 3 states of the file 
 unstagged
 stagged
+commit
